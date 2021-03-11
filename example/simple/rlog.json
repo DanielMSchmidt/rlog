@@ -1,0 +1,5 @@
+{
+  "frontend": "./frontend.log",
+  "backend": "./backend.log",
+  "database": "./database.log"
+}
